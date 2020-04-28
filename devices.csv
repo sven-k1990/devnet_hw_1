@@ -1,0 +1,4 @@
+ip,port,username,password,device_type,secret
+ios-xe-mgmt.cisco.com,8181,developer,C1sco12345,cisco_ios,C1sco12345
+ios-xe-mgmt-latest.cisco.com,8181,developer,C1sco12345,cisco_ios,C1sco12345
+
